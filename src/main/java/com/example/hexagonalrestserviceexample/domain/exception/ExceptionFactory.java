@@ -9,6 +9,6 @@ import static java.lang.String.format;
 public class ExceptionFactory {
 
     public static ProductNotFoundException productNotFound(String productId) {
-        return new ProductNotFoundException(format("Cannot with id [%s] is not found", productId));
+        return new ProductNotFoundException(format("Product with id [%s] is not found", productId));
     }
 }
