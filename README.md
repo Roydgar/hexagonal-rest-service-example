@@ -1,6 +1,6 @@
 # Description
 
-A simple Spring Boot demo project that is build based hexagonal architecture.
+A simple Spring Boot demo project build based on hexagonal architecture.
 
 Tech stack:
 1. Spring Boot Web
